@@ -1,0 +1,18 @@
+<!-- Twikoo -->
+<div>
+    <div class="pagination__title" style="margin-top: 25px;">
+        <span class="pagination__title-h" style="font-size: 20px;">💬 评论</span>
+        <hr />
+    </div>
+    <div id="tcomment"></div>
+    <script src="https://cdn.jsdelivr.net/npm/twikoo@{{ .Site.Params.twikoo.version }}/dist/twikoo.all.min.js"></script>
+    <script>
+        twikoo.init({
+            envId: "https://twikoo-seven-neon.vercel.app/",  //这里填写自己的envId
+            el: "#tcomment",
+            lang: 'zh-CN',
+            region: '',  //我的区域是广州，可以不填，默认是ap-shanghai
+            path: window.TWIKOO_MAGIC_PATH||window.location.pathname,
+        });
+    </script>
+</div>
