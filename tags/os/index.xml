@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OS on The Republic</title>
+    <link>https://Idealist226.github.io/tags/os/</link>
+    <description>Recent content in OS on The Republic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 27 Jun 2022 00:19:52 +0800</lastBuildDate><atom:link href="https://Idealist226.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIT_6.S081_lab1：Xv6 and Unix utilities</title>
+      <link>https://Idealist226.github.io/posts/tech/mit_6.s081_lab1/</link>
+      <pubDate>Mon, 27 Jun 2022 00:19:52 +0800</pubDate>
+      
+      <guid>https://Idealist226.github.io/posts/tech/mit_6.s081_lab1/</guid>
+      <description>MIT 6.S081 实验一 笔记</description>
+    </item>
+    
+  </channel>
+</rss>
