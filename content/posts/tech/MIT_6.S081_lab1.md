@@ -1,7 +1,7 @@
 ---
-title: "MIT_6.S081_lab1：Xv6 and Unix utilities"
-date: 2022-06-27T00:19:52+08:00
-lastmod: 2022-06-27T00:19:52+08:00
+title: "MIT_6.S081_lab1: Xv6 and Unix utilities"
+date: 2022-07-04T00:19:52+08:00
+lastmod: 2022-07-21T23:36:38+08:00
 author: ["Idealist"]
 tags:
 - Lab
@@ -373,4 +373,10 @@ int main(int argc, char* argv[]) {
     exit(0);
 }
 ```
+
+## 3. 总结
+
+很早之前就接触且了解过管道，但这是第一次在实际编程中运用，在与父子进程配合使用的过程中就有点绕了。总体而言，lab1 难度不大，能够将操作系统当作一个黑盒，让学生从宏观上使用进程，这一过程还是挺有趣的。
+
+
 
